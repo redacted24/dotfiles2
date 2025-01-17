@@ -20,3 +20,6 @@ alias mimimcgill='ssh -i ~/.ssh/mcgill_mimi qhuang3@mimi.cs.mcgill.ca'
 
 # GitRepo Dotfiles Sync (Atlassian method)
 alias sconf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+# Replace choo-choo train alias so I can exit it with Ctrl+c
+alias sl='sl -e'
